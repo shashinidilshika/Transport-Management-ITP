@@ -1,4 +1,5 @@
 **🚗 Transport Management (By Shashini Ranaweera)**
+
 This is a sub-component of the Tour Guide System developed for the ITP - 2nd Year Module.
 
 This module manages all transportation-related functionalities in the system. It enables the Transport Manager to:
@@ -10,6 +11,8 @@ This module manages all transportation-related functionalities in the system. It
 **🛠 Technologies Used:**
 
 Frontend: React.js
+
 Backend: Node.js with Express
+
 Database: MongoDB
 
