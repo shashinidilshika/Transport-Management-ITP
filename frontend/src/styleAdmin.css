@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Poppins:400,500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+.back-img3{
+  background: url('./image/back3.jpg');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.card-admin{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  z-index: 999;
+  text-align: center;
+  padding: 150px 50px;
+  width: 550px;
+  transform: translate(-50%,-50%);
+  background: rgba(255,255,244,0.4);
+  box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+}
+.card-admin header{
+  color: white;
+  font-size: 33px;
+  font-weight: 600;
+  margin: 0 0 35px 0;
+  font-family: 'Montserrat',sans-serif;
+  font-style: italic;
+}
